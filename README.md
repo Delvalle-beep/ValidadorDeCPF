@@ -15,4 +15,4 @@ Para sua construção foi utilizado:
  LinkedIn: https://www.linkedin.com/in/vitoriaregina/
  
  Para acessar a solução finalizada clique no link a seguir: 
- https://ladywinehouse.github.io/ValidadorDeCPF/ko
+ https://ladywinehouse.github.io/ValidadorDeCPF/
