@@ -13,3 +13,6 @@ Para sua construção foi utilizado:
  Desenvolvido por: Vitória Regina
 
  LinkedIn: https://www.linkedin.com/in/vitoriaregina/
+ 
+ Para acessar a solução finalizada clique no link a seguir: 
+ https://ladywinehouse.github.io/ValidadorDeCPF/ko
